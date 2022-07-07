@@ -42,6 +42,16 @@ public class TeamValidate
 			}
 			
 		}
+		
+		if(fplayers == 7)
+		{
+			System.out.println("Team contains only 4 foreign players");
+		}
+		
+		else
+		{
+			System.out.println("Team contains more than 4 foreign players");
+		}
 	
 }
 	
