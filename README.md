@@ -10,7 +10,8 @@ This is the main class file which runs the testcases from "org.testvagrant.testc
 This has two classes
 
 3a.ValidateTeam->This testcase validates the number of foreign players in the team
-3b.ValidateRoll->This testcase validates the number of wicket-players in the team
+
+3b.ValidateRole->This testcase validates the number of wicket-players in the team
 
 4.org.testvagrant.utilities
 This contians the class which is used to read the JSON,extract the required Array ,convert to string & return to the testcases
